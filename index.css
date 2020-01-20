@@ -1,4 +1,19 @@
 .container {
     border: 5px solid #ffcc5c;
     display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.home{
+background-color: #ffcc5c;
+border: 5px solid red;
+}
+.search{
+    background-color: aqua;
+    border: 5px solid red;
+}
+.logout {
+    background-color: saddlebrown;
+    border: 5px solid red;
 }
