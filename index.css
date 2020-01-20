@@ -7,15 +7,25 @@
 
 .home{
 background-color: #ffcc5c;
-border: 5px solid red;
 margin-right: auto;
 }
 .search{
     background-color: aqua;
-    border: 5px solid red;
+    
 }
 .logout {
     background-color: saddlebrown;
-    border: 5px solid red;
+    
    
+}
+
+.profile {
+    background-color: slateblue;
+
+}
+.container > section{
+    flex: 1;
+}
+.container > .profile {
+    flex : 2;
 }
