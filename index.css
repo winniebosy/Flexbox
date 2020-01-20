@@ -29,5 +29,6 @@ background-color: #ffcc5c;
 .container > section{
     flex: 2;
     text-align: center;
+    align-self:flex-start;
 
 }
