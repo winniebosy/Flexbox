@@ -6,6 +6,6 @@ Learning CSS3 flexbox
 3. Align-items
 4. Flex-direction
 5. Flex-wrap
-6.Flex-strech
-7.Flex-shrink
+6. Flex-strech
+7. Flex-shrink
 8. Flex-basis
