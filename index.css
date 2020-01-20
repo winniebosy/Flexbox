@@ -2,12 +2,13 @@
     border: 5px solid #ffcc5c;
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: flex-end;
 }
 
 .home{
 background-color: #ffcc5c;
 border: 5px solid red;
+margin-right: auto;
 }
 .search{
     background-color: aqua;
@@ -16,4 +17,5 @@ border: 5px solid red;
 .logout {
     background-color: saddlebrown;
     border: 5px solid red;
+   
 }
