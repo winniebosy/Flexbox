@@ -2,15 +2,16 @@
     border: 5px solid #ffcc5c;
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    justify-content: center;
 }
 
 .home{
 background-color: #ffcc5c;
-margin-right: auto;
+
 }
 .search{
     background-color: aqua;
+    flex : -1;
     
 }
 .logout {
@@ -22,10 +23,9 @@ margin-right: auto;
 .profile {
     background-color: slateblue;
 
+
 }
 .container > section{
-    flex: 1;
-}
-.container > .profile {
-    flex : 2;
+    flex: 2;
+
 }
